@@ -9,5 +9,8 @@ https://safeswap.io/
 # Application
 https://app.safeswap.io
 
+# Audit
+https://github.com/Safehaven-io/SafeSwap/blob/main/2022.08.19_SafeSwap_PR.pdf
+
 # Apply for listing
 https://safeswap.io/listing/
