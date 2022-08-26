@@ -12,7 +12,7 @@ https://app.safeswap.io
 # Security Audit
 
 - API
-- TLCS
+- TLSC
 - Swapper
 
 https://github.com/Safehaven-io/SafeSwap/blob/main/2022.08.19_SafeSwap_PR.pdf
